@@ -1,0 +1,12 @@
+
+v
+java:S11922"TDefine a constant instead of duplicating this literal "Not yet implemented" 3 times.(µ¢Ü¡şÿÿÿÿ8äÀîáÜ0
+\
+java:S1854":Remove this useless assignment to local variable "circle".(ïĞòôüÿÿÿÿ8óÀîáÜ0
+]	java:S125"<This block of commented-out lines of code should be removed.(²«÷¯ùÿÿÿÿ8ôÀîáÜ0
+M
+java:S1481"+Remove this unused "circle" local variable.(ïĞòôüÿÿÿÿ8õÀîáÜ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§”áØøÿÿÿÿ8öÀîáÜ0
+]	java:S125%"<This block of commented-out lines of code should be removed.(²«÷¯ùÿÿÿÿ8öÀîáÜ0
+H
+java:S5960)"+Remove this assertion from production code.(„óÙù8øÀîáÜ0
